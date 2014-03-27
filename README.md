@@ -1,7 +1,7 @@
 xcode-gcc42
 ===========
 
-Adds LLVM GCC4.2 compiler options to XCode5
+Adds LLVM GCC4.2 compiler options to XCode5.0.1
 
 1. Backup existing Xcode ```mv /Applications/Xcode.app /Applications/Xcode_bak.app```
 2. Install new Xcode
